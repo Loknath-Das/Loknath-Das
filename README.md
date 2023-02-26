@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loknath-Das
-- 👀 I’m interested in Cloud Computing | DevOps | Writting
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Cloud Computing | DevOps | Content Writting
+- 🌱 I’m currently learning DevOps and working as an Associate DevOps Engineer
 
 
 <!---
