@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Loknath Das
 
+## Interests
+I'm passionate about Cloud Computing and DevOps, and I also enjoy content writing. I'm continuously learning and growing in the DevOps field, currently working as a DevOps Engineer 1.
+
 ## About Me
 I'm a DevOps Engineer with over 2 years of experience, passionate about optimizing cloud infrastructure and automating workflows. I thrive on leveraging modern DevOps tools and practices to deliver scalable and secure solutions.
 
@@ -17,13 +20,4 @@ At Searce Inc, I facilitated the migration of on-premises infrastructure to Goog
 - **Operating Systems:** RedHat Linux, Ubuntu
 - **Programming Languages:** C++ (Basic), Bash Scripting
 
-## Interests
-I'm passionate about Cloud Computing and DevOps, and I also enjoy content writing. I'm continuously learning and growing in the DevOps field, currently working as a DevOps Engineer 1.
-
 Feel free to explore my repositories and connect with me!
-
-
-<!---
-Loknath-Das/Loknath-Das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
